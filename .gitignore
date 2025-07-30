@@ -1,0 +1,77 @@
+# === Unreal Engine ===
+
+# Build output folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore VS and Rider project files
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled source files
+*.dll
+*.exe
+*.lib
+*.app
+*.ipa
+*.pdb
+*.obj
+*.o
+*.gch
+*.pch
+
+# iOS specific
+*.xcworkspace
+*.xcodeproj
+
+# Android intermediate files
+*.apk
+*.aab
+*.gradle
+
+# Backup files
+*_Backup_*.uasset
+
+# Crash logs
+*.log
+*.dmp
+
+# SourceArt files
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+# Auto-generated config
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditor.ini
+Config/EditorKeyBindings.ini
+Config/EditorSettings.ini
+
+# Ignore Plugin build output
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Ignore local/temporary project settings
+*.DS_Store
+*.iml
+*.user
+*.userosscache
+
+# Ignore Rider caches
+.rider/
+
+# Ignore compiled Shader files
+*.ush
+*.usf
+
+# Ignore other temp or cache files
+*.tmp
+*.cache
