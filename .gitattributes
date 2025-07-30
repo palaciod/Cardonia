@@ -1,0 +1,23 @@
+# Normalize text files to use LF
+* text=auto
+
+# Treat these as binary; prevent Git from trying to diff them
+*.uasset binary
+*.umap binary
+
+# Ignore changes in line endings for config files
+*.ini text eol=lf
+
+# Ignore diffs for compiled binaries
+*.dll binary
+*.exe binary
+*.lib binary
+*.pdb binary
+*.so binary
+*.dylib binary
+*.a binary
+*.app binary
+*.ipa binary
+
+# Optional: Unity/C# support
+*.cs text diff=csharp
