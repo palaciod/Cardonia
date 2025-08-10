@@ -1,0 +1,306 @@
+[
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Private\\CCFbxFactory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Private\\CCImportUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Private\\RLShaderData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Private\\RLString.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\CCApplyTextureToMetaHuman.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\CCImportWindow.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLMaterialData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLPhysicClothData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLPhysicCollisionShapeData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLPlugin.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLPluginCommands.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLPluginStyle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLTextureData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\Public\\RLWrinkleData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Plugins\\RLPlugin\\Source\\RLPlugin\\RLPlugin.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\RLPlugin.25.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\BaseCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\BaseCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Cardonia.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Cardonia.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Cardonia.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\CardoniaCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\CardoniaCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\CardoniaGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\CardoniaGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Collectible.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Collectible.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\DamageableInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\DamageableInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\HealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\HealthComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\InventoryComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\InventoryComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\InventoryItem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\InventoryItem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\MyInteractableInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\MyInteractableInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Species.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\Source\\Cardonia\\Species.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Daniel Palacio\\Documents\\Unreal Projects\\Cardonia\\.vscode\\compileCommands_Default\\Cardonia.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
